@@ -142,3 +142,4 @@ https://github.com/ChrisRackauckas/JupyterSite/tree/master/Pdfs
 
 For mixing the "live" part of the notebook with slideshows, try [RISE](https://github.com/damianavila/RISE).
 RISE works with the notebooks included in this repository.
+# quantumapoptosi.github.io
